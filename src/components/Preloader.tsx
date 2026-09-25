@@ -61,9 +61,6 @@ export function Preloader({ onReveal, onDone }: PreloaderProps) {
           <span className="pl-[0.18em] font-display text-[clamp(2.5rem,6vw,4rem)] font-light tracking-[0.18em]">
             STUDIO88
           </span>
-          <span className="mt-2 pl-[0.28em] text-[11px] font-medium uppercase tracking-eyebrow text-stone-muted">
-            By MPI
-          </span>
         </div>
         <span
           data-line
