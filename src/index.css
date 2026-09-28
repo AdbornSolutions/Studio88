@@ -39,13 +39,6 @@ html.lenis body {
 .lenis.lenis-stopped {
   overflow: hidden;
 }
-/* Custom cursor (desktop only, toggled from JS) */
-@media (hover: hover) and (pointer: fine) {
-  html.has-custom-cursor,
-  html.has-custom-cursor * {
-    cursor: none !important;
-  }
-}
 /* Thin brass underline for primary navigation */
 .nav-link {
   position: relative;
