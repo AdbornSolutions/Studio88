@@ -8,6 +8,8 @@ import { Collections } from "../components/sections/Collections";
 import { Footer } from "../components/Footer";
 import { useMotionProfile } from "../contexts/MotionContext";
 import { useSmoothScroll } from "../hooks/useSmoothScroll";
+import { ClientBriefContent } from "../components/sections/ClientBriefContent";
+import { LegalPage } from "./LegalPage";
 import { ContentPage } from "./ContentPage";
 function Home({ phase, onReveal, onDone, smoothScroll }) {
   const { isDesktop, reduced } = useMotionProfile();
@@ -24,7 +26,7 @@ function Home({ phase, onReveal, onDone, smoothScroll }) {
       root.style.overflow = "";
     };
   }, [locked]);
-  return <div className="min-h-screen w-full overflow-x-clip bg-ivory font-sans text-charcoal">{phase !== "done" && <Preloader onReveal={onReveal} onDone={onDone} />}<ScrollProgress /><Header /><main>{window.location.pathname === "/" ? <><Hero /><About /><Collections /><div className="bg-charcoal px-6 py-20 text-center text-ivory"><p className="font-display text-4xl">A material for every space.</p><a href="/products" className="mt-8 inline-block border-b border-brass pb-3 text-sm uppercase tracking-widest">Explore all products ?</a></div></> : <ContentPage />}</main><Footer /></div>;
+  return <div className="min-h-screen w-full overflow-x-clip bg-ivory font-sans text-charcoal">{phase !== "done" && <Preloader onReveal={onReveal} onDone={onDone} />}<ScrollProgress /><Header /><main>{window.location.pathname === "/" ? <><Hero /><About /><ClientBriefContent page="home" /><Collections /><div className="bg-charcoal px-6 py-20 text-center text-ivory"><p className="font-display text-4xl">A material for every space.</p><a href="/products" className="mt-8 inline-block border-b border-brass pb-3 text-sm uppercase tracking-widest">Explore all products &rarr;</a></div></> : ["/privacy", "/terms"].includes(window.location.pathname.replace(/\/$/, "")) ? <LegalPage /> : <ContentPage />}</main><Footer /></div>;
 }
 export {
   Home

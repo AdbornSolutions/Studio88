@@ -25,7 +25,7 @@ function Footer() {
     (col) => <nav key={col.title} aria-label={col.title}><p className="text-[11px] font-medium uppercase tracking-[0.2em] text-brass-light">{col.title}</p><ul className="mt-6 space-y-4">{col.links.map(
       (link) => <li key={link.label}><a href={link.href} className="footer-link text-sm">{link.label}</a></li>
     )}</ul></nav>
-  )}</div></div><div className="mt-24 flex flex-col gap-4 border-t border-ivory/10 pt-8 text-[12px] text-ivory/50 sm:flex-row sm:items-center sm:justify-between"><p>© 2026 STUDIO88 by MPI. All rights reserved.</p><div className="flex gap-6"><a href="/" className="footer-link">Privacy</a><a href="/" className="footer-link">Terms</a></div></div></div></footer>;
+  )}</div></div><div className="mt-24 flex flex-col gap-4 border-t border-ivory/10 pt-8 text-[12px] text-ivory/50 sm:flex-row sm:items-center sm:justify-between"><p>&copy; 2026 STUDIO88 by <a href="https://adbornsolutions.com" target="_blank" rel="noopener noreferrer" className="transition-colors hover:text-ivory">Adbornsolutions.com</a>. All rights reserved.</p><div className="flex gap-6"><a href="/privacy" className="footer-link">Privacy Policy</a><a href="/terms" className="footer-link">Terms &amp; Conditions</a></div></div></div></footer>;
 }
 export {
   Footer
