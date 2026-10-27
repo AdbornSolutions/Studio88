@@ -1,49 +1,49 @@
 const navItems = [
-  { label: "Home", href: "#home" },
-  { label: "About", href: "#about" },
-  { label: "Products", href: "#natural-stone", mega: true },
-  { label: "Collections", href: "#collections" },
-  { label: "Projects", href: "#projects" },
-  { label: "Contact", href: "#contact" }
+  { label: "Home", href: "/" },
+  { label: "About", href: "/about" },
+  { label: "Products", href: "/products", mega: true },
+  { label: "Collections", href: "/collections" },
+  { label: "Projects", href: "/projects" },
+  { label: "Contact", href: "/contact" }
 ];
 const megaCategories = [
   {
     id: "natural-stone",
     title: "Natural Stone",
-    href: "#natural-stone",
+    href: "/natural-stone",
     image: "/3cf954cb-4c5f-4af0-b184-20a1b71afe17.jpg",
     alt: "Book-matched grey marble feature wall",
     items: [
-      { label: "Marble", href: "#finder" },
-      { label: "Granite", href: "#finder" },
-      { label: "Quartzite", href: "#finder" },
-      { label: "Limestone", href: "#finder" },
-      { label: "Hand Stone", href: "#finder" }
+      { label: "Marble", href: "/material-finder" },
+      { label: "Granite", href: "/material-finder" },
+      { label: "Quartzite", href: "/material-finder" },
+      { label: "Limestone", href: "/material-finder" },
+      { label: "Hand Stone", href: "/material-finder" }
     ]
   },
   {
     id: "tiles",
     title: "Tiles",
-    href: "#tiles",
+    href: "/tiles",
     image: "/2f6c336c-37df-4729-b39f-749a91ea1d93.jpg",
     alt: "Large-format porcelain and terrazzo tiles in a bathroom corner",
     items: [
-      { label: "Porcelain Slabs", href: "#tiles" },
-      { label: "Terrazzo", href: "#tiles" },
-      { label: "Handmade Clay", href: "#tiles" },
-      { label: "Outdoor Pavers", href: "#tiles" }
+      { label: "Porcelain Slabs", href: "/tiles" },
+      { label: "Terrazzo", href: "/tiles" },
+      { label: "Handmade Clay", href: "/tiles" },
+      { label: "Outdoor Pavers", href: "/tiles" }
     ]
   },
   {
     id: "mandir",
     title: "Mandir",
-    href: "#mandir",
+    href: "/mandir",
     image: "/0508f330-90e1-486a-a57f-d2a5c8ea3a5d.jpg",
     alt: "Hand-carved white marble mandir in a calm living space",
     items: [
-      { label: "Wall Mandirs", href: "#mandir" },
-      { label: "Floor Mandirs", href: "#mandir" },
-      { label: "Bespoke Commissions", href: "#mandir" }
+      { label: "Wall Mandirs", href: "/mandir" },
+      { label: "Floor Mandirs", href: "/mandir" },
+      { label: "Bespoke Commissions", href: "/mandir" }
     ]
   }
 ];
@@ -51,27 +51,27 @@ const footerColumns = [
   {
     title: "Explore",
     links: [
-      { label: "Home", href: "#home" },
-      { label: "About", href: "#about" },
-      { label: "Collections", href: "#collections" },
-      { label: "Projects", href: "#projects" }
+      { label: "Home", href: "/" },
+      { label: "About", href: "/about" },
+      { label: "Collections", href: "/collections" },
+      { label: "Projects", href: "/projects" }
     ]
   },
   {
     title: "Products",
     links: [
-      { label: "Natural Stone", href: "#natural-stone" },
-      { label: "Tiles", href: "#tiles" },
-      { label: "Mandir", href: "#mandir" },
-      { label: "Material Finder", href: "#finder" }
+      { label: "Natural Stone", href: "/natural-stone" },
+      { label: "Tiles", href: "/tiles" },
+      { label: "Mandir", href: "/mandir" },
+      { label: "Material Finder", href: "/material-finder" }
     ]
   },
   {
     title: "Visit",
     links: [
-      { label: "Book a Showroom Visit", href: "#contact" },
-      { label: "Request Samples", href: "#finder" },
-      { label: "Contact", href: "#contact" }
+      { label: "Book a Showroom Visit", href: "/contact" },
+      { label: "Request Samples", href: "/material-finder" },
+      { label: "Contact", href: "/contact" }
     ]
   }
 ];

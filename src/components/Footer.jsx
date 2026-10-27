@@ -6,7 +6,7 @@ const socials = [
   { name: "linkedin", label: "LinkedIn", href: "https://linkedin.com" }
 ];
 function Footer() {
-  return <footer className="bg-charcoal text-ivory"><div className="mx-auto max-w-[1440px] px-6 pb-10 pt-24 md:px-10"><div className="grid gap-14 lg:grid-cols-12"><div className="lg:col-span-5"><a href="#home" aria-label="STUDIO88 by MPI — home" className="inline-block"><img
+  return <footer className="bg-charcoal text-ivory"><div className="mx-auto max-w-[1440px] px-6 pb-10 pt-24 md:px-10"><div className="grid gap-14 lg:grid-cols-12"><div className="lg:col-span-5"><a href="/" aria-label="STUDIO88 by MPI — home" className="inline-block"><img
     src="/logo-studio-88.png"
     alt="STUDIO88 by MPI"
     className="w-40 object-default object-[center_27%]"
@@ -25,7 +25,7 @@ function Footer() {
     (col) => <nav key={col.title} aria-label={col.title}><p className="text-[11px] font-medium uppercase tracking-[0.2em] text-brass-light">{col.title}</p><ul className="mt-6 space-y-4">{col.links.map(
       (link) => <li key={link.label}><a href={link.href} className="footer-link text-sm">{link.label}</a></li>
     )}</ul></nav>
-  )}</div></div><div className="mt-24 flex flex-col gap-4 border-t border-ivory/10 pt-8 text-[12px] text-ivory/50 sm:flex-row sm:items-center sm:justify-between"><p>© 2026 STUDIO88 by MPI. All rights reserved.</p><div className="flex gap-6"><a href="#home" className="footer-link">Privacy</a><a href="#home" className="footer-link">Terms</a></div></div></div></footer>;
+  )}</div></div><div className="mt-24 flex flex-col gap-4 border-t border-ivory/10 pt-8 text-[12px] text-ivory/50 sm:flex-row sm:items-center sm:justify-between"><p>© 2026 STUDIO88 by MPI. All rights reserved.</p><div className="flex gap-6"><a href="/" className="footer-link">Privacy</a><a href="/" className="footer-link">Terms</a></div></div></div></footer>;
 }
 export {
   Footer

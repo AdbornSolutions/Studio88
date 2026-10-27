@@ -51,7 +51,7 @@ const origins = [
     eyebrow: "Indian Collection",
     title: "From the quarries of India",
     description: "Makrana marble, Kota limestone and South Indian granites \u2014 sourced directly and finished by craftsmen who have worked stone for generations.",
-    href: "#finder",
+    href: "/material-finder",
     cta: "Explore Indian Collection",
     image: "/b853dd03-3eec-4784-9ad2-3ca502ebaeaf.jpg",
     alt: "Indian courtyard with white marble floor and carved sandstone screen"
@@ -61,7 +61,7 @@ const origins = [
     eyebrow: "Imported Collection",
     title: "Selected across the world",
     description: "Italian statuario, Spanish emperador and Brazilian quartzites \u2014 each block chosen in person, at the quarry.",
-    href: "#finder",
+    href: "/material-finder",
     cta: "Explore Imported Collection",
     image: "/919b56f8-5f0c-4374-86a0-fa87bf120c58.jpg",
     alt: "Living room with a dark Emperador marble fireplace wall"

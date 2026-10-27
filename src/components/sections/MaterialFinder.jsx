@@ -39,7 +39,7 @@ function MaterialFinder() {
     className="h-full w-full object-cover"
   /></div><div className="flex flex-col lg:col-span-7"><h3 className="font-display text-[clamp(2.5rem,4vw,3.75rem)] font-light uppercase leading-none tracking-[0.01em]">{current.name}</h3><p className="mt-5 max-w-lg text-[15px] leading-relaxed text-stone-muted">{current.summary}</p><table className="mt-10 w-full text-left text-sm"><caption className="sr-only">{current.name} varieties available at STUDIO88</caption><thead><tr className="border-b border-charcoal/15 text-[11px] uppercase tracking-[0.18em] text-stone-muted"><th scope="col" className="py-3 pr-4 font-medium">Variety</th><th scope="col" className="py-3 pr-4 font-medium">Origin</th><th scope="col" className="py-3 pr-4 font-medium">Finish</th><th scope="col" className="hidden py-3 font-medium sm:table-cell">Thickness</th></tr></thead><tbody>{current.varieties.map(
     (v) => <tr key={v.name} className="border-b border-charcoal/10"><th scope="row" className="py-4 pr-4 font-display text-xl font-normal">{v.name}</th><td className="py-4 pr-4 text-stone-muted">{v.origin}</td><td className="py-4 pr-4 text-stone-muted">{v.finish}</td><td className="hidden py-4 text-stone-muted sm:table-cell">{v.thickness}</td></tr>
-  )}</tbody></table><div className="mt-auto pt-10"><UnderlineLink href="#contact" withArrow>
+  )}</tbody></table><div className="mt-auto pt-10"><UnderlineLink href="/contact" withArrow>
                     Request {current.name} samples
                   </UnderlineLink></div></div></motion.div></AnimatePresence></Reveal></div></section>;
 }

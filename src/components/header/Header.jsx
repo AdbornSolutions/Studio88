@@ -40,7 +40,7 @@ function Header() {
     setMegaOpen(false);
     setMobileOpen(false);
   };
-  const solid = scrolled || megaOpen || mobileOpen;
+  const solid = window.location.pathname !== "/" || scrolled || megaOpen || mobileOpen;
   return <motion.header
     className="fixed inset-x-0 top-0 z-50"
     initial={{ opacity: 0, y: reduced ? 0 : -12 }}
@@ -50,7 +50,7 @@ function Header() {
   ><div
     className={`relative border-b transition-[background-color,border-color,box-shadow,color,backdrop-filter] duration-500 ease-lux ${solid ? "border-ivory/10 bg-black/90 text-ivory shadow-[0_1px_30px_rgba(0,0,0,0.18)] backdrop-blur-md" : "border-transparent bg-transparent text-ivory"}`}
   ><div className="mx-auto flex h-24 max-w-[1440px] items-center justify-between px-6 md:px-10"><a
-    href="#home"
+    href="/"
     onClick={closeAll}
     aria-label="STUDIO88 by MPI — home"
     className={`block origin-left transition-transform duration-500 ease-lux ${scrolled ? "scale-95" : "scale-100"}`}
@@ -66,12 +66,13 @@ function Header() {
     onClick={() => megaOpen ? setMegaOpen(false) : openMega()}
     className="nav-link text-[12px] font-medium uppercase tracking-[0.18em] opacity-80 transition-opacity duration-300 hover:opacity-100 aria-expanded:opacity-100"
   >{item.label}</button> : <a
+    aria-current={window.location.pathname === item.href ? "page" : undefined}
     href={item.href}
     onMouseEnter={closeMega}
     onClick={closeAll}
     className="nav-link text-[12px] font-medium uppercase tracking-[0.18em] opacity-80 transition-opacity duration-300 hover:opacity-100"
   >{item.label}</a>}</li>)}</ul></nav><div className="flex items-center gap-6"><a
-    href="#contact"
+    href="/contact"
     onClick={closeAll}
     className="nav-link hidden whitespace-nowrap text-[12px] font-medium uppercase tracking-[0.18em] md:inline-block"
   >

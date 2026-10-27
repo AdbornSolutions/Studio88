@@ -8,11 +8,11 @@ const layout = [
   { col: "lg:col-span-3", aspect: "aspect-[3/4]", offset: "lg:mt-56" }
 ];
 function Projects() {
-  return <section id="projects" className="bg-ivory py-28 text-charcoal md:py-40"><div className="mx-auto max-w-[1440px] px-6 md:px-10"><div className="flex flex-col gap-8 md:flex-row md:items-end md:justify-between"><SectionIntro eyebrow="Selected Projects" lines={["Where our materials", "come to rest."]} /><UnderlineLink href="#contact" withArrow className="self-start md:self-end">
+  return <section id="projects" className="bg-ivory py-28 text-charcoal md:py-40"><div className="mx-auto max-w-[1440px] px-6 md:px-10"><div className="flex flex-col gap-8 md:flex-row md:items-end md:justify-between"><SectionIntro eyebrow="Selected Projects" lines={["Where our materials", "come to rest."]} /><UnderlineLink href="/contact" withArrow className="self-start md:self-end">
             All projects
           </UnderlineLink></div><div className="mt-16 grid gap-14 sm:grid-cols-2 lg:grid-cols-12 lg:gap-8">{projects.map((p, i) => {
     const l = layout[i] ?? layout[1];
-    return <Reveal key={p.id} y={40} delay={i * 0.15} duration={1.1} className={`${l.col} ${l.offset} ${i === 0 ? "sm:col-span-2 lg:col-span-6" : ""}`}><a href="#contact" className="group block"><div data-cursor="image" className={`relative overflow-hidden bg-ivory-deep ${l.aspect}`}><img
+    return <Reveal key={p.id} y={40} delay={i * 0.15} duration={1.1} className={`${l.col} ${l.offset} ${i === 0 ? "sm:col-span-2 lg:col-span-6" : ""}`}><a href="/contact" className="group block"><div data-cursor="image" className={`relative overflow-hidden bg-ivory-deep ${l.aspect}`}><img
       src={p.image}
       alt={p.alt}
       loading="lazy"

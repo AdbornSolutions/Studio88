@@ -14,12 +14,12 @@ function TileGrid() {
     eyebrow="Tile Collection"
     lines={["Tiles, considered", "to the millimetre."]}
     description="Large-format porcelain, terrazzo and handmade clay, chosen for how they wear, age and catch the light."
-  /><UnderlineLink href="#contact" withArrow className="self-start md:self-end">
+  /><UnderlineLink href="/contact" withArrow className="self-start md:self-end">
             View all tiles
           </UnderlineLink></div><div ref={gridRef} className="mt-16 grid grid-cols-1 gap-6 sm:grid-cols-2 lg:grid-cols-4">{tiles.map(
     (t, i) => <motion.a
       key={t.id}
-      href="#contact"
+      href="/contact"
       initial={{ opacity: 0, y: dy(40) }}
       animate={inView ? { opacity: 1, y: 0 } : void 0}
       transition={{ duration: d(0.9), delay: reduced ? 0 : i * 0.1, ease: EASE }}

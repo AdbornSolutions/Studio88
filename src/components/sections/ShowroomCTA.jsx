@@ -25,7 +25,7 @@ function ShowroomCTA() {
   /><Reveal y={25} delay={0.55} duration={1} className="mt-8 max-w-md"><p className="text-[15px] leading-relaxed text-ivory/80">
             Stone is best chosen in person — in daylight, by hand. Walk our gallery of slabs, tiles and mandirs with a
             specialist beside you.
-          </p></Reveal><Reveal y={20} delay={0.8} duration={0.9} className="mt-10"><div className="flex flex-wrap items-center gap-x-8 gap-y-5"><PrimaryButton href="#contact">Book a Showroom Visit</PrimaryButton><UnderlineLink href="#contact" className="text-ivory">
+          </p></Reveal><Reveal y={20} delay={0.8} duration={0.9} className="mt-10"><div className="flex flex-wrap items-center gap-x-8 gap-y-5"><PrimaryButton href="/contact">Book a Showroom Visit</PrimaryButton><UnderlineLink href="/contact" className="text-ivory">
               Get Directions
             </UnderlineLink></div></Reveal><dl className="mt-20 grid gap-6 border-t border-ivory/15 pt-8 sm:grid-cols-3">{visitInfo.map(
     (item, i) => <Reveal key={item.term} y={16} delay={1 + i * 0.1} duration={0.9}><dt className="text-[11px] font-medium uppercase tracking-[0.2em] text-ivory/55">{item.term}</dt><dd className="mt-2 text-sm text-ivory/90">{item.value}</dd></Reveal>

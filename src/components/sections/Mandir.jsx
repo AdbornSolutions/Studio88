@@ -24,7 +24,7 @@ function Mandir() {
               proportioned to your wall, your light and your rituals.
             </p></Reveal><dl className="mt-12 border-t border-ivory/10">{details.map(
     (item, i) => <Reveal key={item.term} y={16} delay={0.75 + i * 0.12} duration={1.1}><div className="flex items-baseline justify-between gap-6 border-b border-ivory/10 py-4"><dt className="text-[11px] font-medium uppercase tracking-[0.2em] text-ivory/55">{item.term}</dt><dd className="text-right text-sm text-ivory/85">{item.value}</dd></div></Reveal>
-  )}</dl><Reveal y={16} delay={1.1} duration={1} className="mt-10"><UnderlineLink href="#contact" withArrow className="text-ivory">
+  )}</dl><Reveal y={16} delay={1.1} duration={1} className="mt-10"><UnderlineLink href="/contact" withArrow className="text-ivory">
               Commission a Mandir
             </UnderlineLink></Reveal></div><div className="relative order-1 lg:order-2 lg:col-span-6 lg:col-start-7">{
     /* A soft, warm light that settles around the image once it has revealed. */

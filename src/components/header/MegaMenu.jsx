@@ -38,10 +38,10 @@ function MegaMenu({ open, onEnter, onNavigate }) {
       >{item.label}</a></li>
     )}</motion.ul></div>
   )}</div><motion.div {...stagger(0.2)} className="col-span-3 flex flex-col border-l border-charcoal/10 pl-10"><p className="text-[11px] font-medium uppercase tracking-eyebrow text-brass-deep">The Catalogue</p><p className="mt-4 font-display text-2xl leading-snug">
-                A complete library of surfaces — best seen, and touched, in person.
-              </p><div className="mt-auto flex flex-col items-start gap-4 pt-8"><PrimaryButton href="#contact" onClick={onNavigate}>
+                A complete library of surfaces â€” best seen, and touched, in person.
+              </p><div className="mt-auto flex flex-col items-start gap-4 pt-8"><UnderlineLink href="/products" onClick={onNavigate}>Browse All Products</UnderlineLink><PrimaryButton href="/contact" onClick={onNavigate}>
                   Book a Visit
-                </PrimaryButton><UnderlineLink href="#finder" onClick={onNavigate}>
+                </PrimaryButton><UnderlineLink href="/material-finder" onClick={onNavigate}>
                   Material Finder
                 </UnderlineLink></div></motion.div></div></motion.div>}</AnimatePresence>;
 }

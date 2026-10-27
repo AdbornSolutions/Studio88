@@ -32,7 +32,7 @@ function MobileMenu({ open, onClose }) {
       onClick={onClose}
       className="block border-b border-charcoal/10 py-4 font-display text-3xl font-light uppercase tracking-[0.02em]"
     >{item.label}</a></motion.li>
-  )}</ul><PrimaryButton href="#contact" onClick={onClose} className="w-full">
+  )}</ul><PrimaryButton href="/contact" onClick={onClose} className="w-full">
               Book a Showroom Visit
             </PrimaryButton></nav></motion.div>}</AnimatePresence>;
 }

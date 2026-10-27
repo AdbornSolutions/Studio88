@@ -53,7 +53,7 @@ function Hero() {
   /><div className="mt-10 flex flex-col gap-10 md:flex-row md:items-end md:justify-between"><Reveal when={ready} delay={0.85} duration={0.8} y={24} className="max-w-md"><p className="text-[15px] leading-relaxed text-ivory/80">
               Natural stone, tiles and hand-carved mandirs — selected at the source and finished with the patience of
               craftsmen. Come see, touch and choose.
-            </p></Reveal><Reveal when={ready} delay={1} duration={0.7} y={20}><div className="flex flex-wrap items-center gap-x-8 gap-y-5"><PrimaryButton href="#collections">Explore Collections</PrimaryButton><UnderlineLink href="#contact" className="text-ivory">
+            </p></Reveal><Reveal when={ready} delay={1} duration={0.7} y={20}><div className="flex flex-wrap items-center gap-x-8 gap-y-5"><PrimaryButton href="/collections">Explore Collections</PrimaryButton><UnderlineLink href="/contact" className="text-ivory">
                 Visit Our Showroom
               </UnderlineLink></div></Reveal></div></motion.div><ScrollIndicator /></section>;
 }
