@@ -1,3 +1,5 @@
+import { tileHero } from "./tiles";
+
 const navItems = [
   { label: "Home", href: "/" },
   { label: "About", href: "/about" },
@@ -25,13 +27,11 @@ const megaCategories = [
     id: "tiles",
     title: "Tiles",
     href: "/tiles",
-    image: "/2f6c336c-37df-4729-b39f-749a91ea1d93.jpg",
-    alt: "Large-format porcelain and terrazzo tiles in a bathroom corner",
+    ...tileHero,
     items: [
-      { label: "Porcelain Slabs", href: "/tiles" },
-      { label: "Terrazzo", href: "/tiles" },
-      { label: "Handmade Clay", href: "/tiles" },
-      { label: "Outdoor Pavers", href: "/tiles" }
+      { label: "Living Floor Tiles", href: "/tiles?collection=living-floor#tile-collections" },
+      { label: "Handmade Tiles", href: "/tiles?collection=handmade#tile-collections" },
+      { label: "Athangudi Tiles", href: "/tiles?collection=athangudi#tile-collections" }
     ]
   },
   {

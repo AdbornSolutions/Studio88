@@ -1,0 +1,963 @@
+{
+  "floor": [
+    {
+      "id": "600-x-1200-apuano-blanco-endless",
+      "name": "Apuano Blanco Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5797",
+      "roomImage": "/tile-catalog/600-x-1200/apuano-blanco-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/apuano-blanco-endless.webp"
+    },
+    {
+      "id": "600-x-1200-apuano-cream-endless",
+      "name": "Apuano Cream Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5798",
+      "roomImage": "/tile-catalog/600-x-1200/apuano-cream-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/apuano-cream-endless.webp"
+    },
+    {
+      "id": "600-x-1200-brisa-blanco",
+      "name": "Brisa Blanco",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/150/600x1200/BRISA-BLANCO",
+      "roomImage": "/tile-catalog/600-x-1200/brisa-blanco-room.webp",
+      "image": "/tile-catalog/600-x-1200/brisa-blanco.webp"
+    },
+    {
+      "id": "600-x-1200-brisa-sand",
+      "name": "Brisa Sand",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/153/600x1200/BRISA-SAND",
+      "roomImage": "/tile-catalog/600-x-1200/brisa-sand-room.webp",
+      "image": "/tile-catalog/600-x-1200/brisa-sand.webp"
+    },
+    {
+      "id": "600-x-1200-brisa-taupe",
+      "name": "Brisa Taupe",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/154/600x1200/BRISA-TAUPE",
+      "image": "/tile-catalog/600-x-1200/brisa-taupe.webp"
+    },
+    {
+      "id": "600-x-1200-century-white",
+      "name": "Century White",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/century-white-room.webp",
+      "image": "/tile-catalog/600-x-1200/century-white.webp"
+    },
+    {
+      "id": "600-x-1200-century-white-hl",
+      "name": "Century White HL",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/century-white-hl-room.webp",
+      "image": "/tile-catalog/600-x-1200/century-white-hl.webp"
+    },
+    {
+      "id": "600-x-1200-cloudia-brown-endless",
+      "name": "Cloudia Brown Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5803",
+      "roomImage": "/tile-catalog/600-x-1200/cloudia-brown-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/cloudia-brown-endless.webp"
+    },
+    {
+      "id": "600-x-1200-cloudia-grey-endless",
+      "name": "Cloudia Grey Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5804",
+      "roomImage": "/tile-catalog/600-x-1200/cloudia-grey-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/cloudia-grey-endless.webp"
+    },
+    {
+      "id": "600-x-1200-cloudia-ivory-endless",
+      "name": "Cloudia Ivory Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5805",
+      "roomImage": "/tile-catalog/600-x-1200/cloudia-ivory-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/cloudia-ivory-endless.webp"
+    },
+    {
+      "id": "600-x-1200-cloudia-white-endless",
+      "name": "Cloudia White Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.360brandingstudio.com/panorama/index.php?viewid=5806",
+      "roomImage": "/tile-catalog/600-x-1200/cloudia-white-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/cloudia-white-endless.webp"
+    },
+    {
+      "id": "600-x-1200-copious-gris",
+      "name": "Copious Gris",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/161/600x1200/COPIOUS-GRIS",
+      "roomImage": "/tile-catalog/600-x-1200/copious-gris-room.webp",
+      "image": "/tile-catalog/600-x-1200/copious-gris.webp"
+    },
+    {
+      "id": "600-x-1200-copious-ivory",
+      "name": "Copious Ivory",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/163/600x1200/COPIOUS-IVORY",
+      "roomImage": "/tile-catalog/600-x-1200/copious-ivory-room.webp",
+      "image": "/tile-catalog/600-x-1200/copious-ivory.webp"
+    },
+    {
+      "id": "600-x-1200-hope-white",
+      "name": "Hope White",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/hope-white-room.webp",
+      "image": "/tile-catalog/600-x-1200/hope-white.webp"
+    },
+    {
+      "id": "600-x-1200-unika-onyx-white",
+      "name": "Unika Onyx White",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/unika-onyx-white-room.webp",
+      "image": "/tile-catalog/600-x-1200/unika-onyx-white.webp"
+    },
+    {
+      "id": "600-x-1200-arion-ash",
+      "name": "Arion Ash",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/arion-ash-room.webp",
+      "image": "/tile-catalog/600-x-1200/arion-ash.webp"
+    },
+    {
+      "id": "600-x-1200-arion-blanco",
+      "name": "Arion Blanco",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/arion-blanco-room.webp",
+      "image": "/tile-catalog/600-x-1200/arion-blanco.webp"
+    },
+    {
+      "id": "600-x-1200-corton-beige",
+      "name": "Corton Beige",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/corton-beige-room.webp",
+      "image": "/tile-catalog/600-x-1200/corton-beige.webp"
+    },
+    {
+      "id": "600-x-1200-corton-grigio",
+      "name": "Corton Grigio",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/corton-grigio-room.webp",
+      "image": "/tile-catalog/600-x-1200/corton-grigio.webp"
+    },
+    {
+      "id": "600-x-1200-corton-smoke",
+      "name": "Corton Smoke",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/corton-smoke-room.webp",
+      "image": "/tile-catalog/600-x-1200/corton-smoke.webp"
+    },
+    {
+      "id": "600-x-1200-forza-pearl",
+      "name": "Forza Pearl",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "panorama": "https://www.sunhearrt.com/360/viewer/214/600x1200/FORZA-PEARL",
+      "roomImage": "/tile-catalog/600-x-1200/forza-pearl-room.webp",
+      "image": "/tile-catalog/600-x-1200/forza-pearl.webp"
+    },
+    {
+      "id": "600-x-1200-calcatta-paonazzo",
+      "name": "Calcatta Paonazzo",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/calcatta-paonazzo-room.webp",
+      "image": "/tile-catalog/600-x-1200/calcatta-paonazzo.webp"
+    },
+    {
+      "id": "600-x-1200-milok-white-endless",
+      "name": "Milok White Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Alpine",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/milok-white-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/milok-white-endless.webp"
+    },
+    {
+      "id": "600-x-1200-daxton-white",
+      "name": "Daxton White",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Alpine",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/daxton-white-room.webp",
+      "image": "/tile-catalog/600-x-1200/daxton-white.webp"
+    },
+    {
+      "id": "600-x-1200-milos-statvario-muse-endless",
+      "name": "Milos Statvario Muse Endless",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Muse Matt",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/milos-statvario-muse-endless-room.webp",
+      "image": "/tile-catalog/600-x-1200/milos-statvario-muse-endless.webp"
+    },
+    {
+      "id": "600-x-1200-meliore-graffite-muse",
+      "name": "Meliore Graffite Muse",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Muse Matt",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/meliore-graffite-muse-room.webp",
+      "image": "/tile-catalog/600-x-1200/meliore-graffite-muse.webp"
+    },
+    {
+      "id": "600-x-1200-graza-grigio",
+      "name": "Graza Grigio",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/graza-grigio-room.webp",
+      "image": "/tile-catalog/600-x-1200/graza-grigio.webp"
+    },
+    {
+      "id": "600-x-1200-fausto-gold",
+      "name": "Fausto Gold",
+      "size": "600 × 1200 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/fausto-gold-room.webp",
+      "image": "/tile-catalog/600-x-1200/fausto-gold.webp"
+    },
+    {
+      "id": "600-x-1200-armani-beige",
+      "name": "Armani Beige",
+      "size": "600 × 1200 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/armani-beige-room.webp",
+      "image": "/tile-catalog/600-x-1200/armani-beige.webp"
+    },
+    {
+      "id": "600-x-1200-sandro-grey",
+      "name": "Sandro Grey",
+      "size": "600 × 1200 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/sandro-grey-room.webp",
+      "image": "/tile-catalog/600-x-1200/sandro-grey.webp"
+    },
+    {
+      "id": "600-x-1200-sandro-white",
+      "name": "Sandro White",
+      "size": "600 × 1200 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/600-x-1200/sandro-white-room.webp",
+      "image": "/tile-catalog/600-x-1200/sandro-white.webp"
+    },
+    {
+      "id": "800-x-1600-anima-beige",
+      "name": "Anima Beige",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://sunhearrt.3dview.app/840158",
+      "roomImage": "/tile-catalog/800-x-1600/anima-beige-room.webp",
+      "image": "/tile-catalog/800-x-1600/anima-beige.webp"
+    },
+    {
+      "id": "800-x-1600-anima-silver",
+      "name": "Anima Silver",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://sunhearrt.3dview.app/840189",
+      "roomImage": "/tile-catalog/800-x-1600/anima-silver-room.webp",
+      "image": "/tile-catalog/800-x-1600/anima-silver.webp"
+    },
+    {
+      "id": "800-x-1600-apolis-ivory",
+      "name": "Apolis Ivory",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://sunhearrt.3dview.app/50694",
+      "roomImage": "/tile-catalog/800-x-1600/apolis-ivory-room.webp",
+      "image": "/tile-catalog/800-x-1600/apolis-ivory.webp"
+    },
+    {
+      "id": "800-x-1600-castel-grey",
+      "name": "Castel Grey",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/castel-grey-room.webp",
+      "image": "/tile-catalog/800-x-1600/castel-grey.webp"
+    },
+    {
+      "id": "800-x-1600-castel-peach",
+      "name": "Castel Peach",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/castel-peach-room.webp",
+      "image": "/tile-catalog/800-x-1600/castel-peach.webp"
+    },
+    {
+      "id": "800-x-1600-cosmopolitan-beige",
+      "name": "Cosmopolitan Beige",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://sunhearrt.3dview.app/50703",
+      "roomImage": "/tile-catalog/800-x-1600/cosmopolitan-beige-room.webp",
+      "image": "/tile-catalog/800-x-1600/cosmopolitan-beige.webp"
+    },
+    {
+      "id": "800-x-1600-cosmopolitan-sand",
+      "name": "Cosmopolitan Sand",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "panorama": "https://sunhearrt.3dview.app/50698",
+      "roomImage": "/tile-catalog/800-x-1600/cosmopolitan-sand-room.webp",
+      "image": "/tile-catalog/800-x-1600/cosmopolitan-sand.webp"
+    },
+    {
+      "id": "800-x-1600-cosmopolitan-white",
+      "name": "Cosmopolitan White",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/cosmopolitan-white-room.webp",
+      "image": "/tile-catalog/800-x-1600/cosmopolitan-white.webp"
+    },
+    {
+      "id": "800-x-1600-volga-blanco",
+      "name": "Volga Blanco",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/volga-blanco-room.webp",
+      "image": "/tile-catalog/800-x-1600/volga-blanco.webp"
+    },
+    {
+      "id": "800-x-1600-juno-white",
+      "name": "Juno White",
+      "size": "800 × 1600 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/juno-white-room.webp",
+      "image": "/tile-catalog/800-x-1600/juno-white.webp"
+    },
+    {
+      "id": "800-x-1600-breccia-aurora",
+      "name": "Breccia Aurora",
+      "size": "800 × 1600 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/breccia-aurora-room.webp",
+      "image": "/tile-catalog/800-x-1600/breccia-aurora.webp"
+    },
+    {
+      "id": "800-x-1600-eternal-blanco",
+      "name": "Eternal Blanco",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/eternal-blanco-room.webp",
+      "image": "/tile-catalog/800-x-1600/eternal-blanco.webp"
+    },
+    {
+      "id": "800-x-1600-amarone-grey",
+      "name": "Amarone Grey",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/amarone-grey-room.webp",
+      "image": "/tile-catalog/800-x-1600/amarone-grey.webp"
+    },
+    {
+      "id": "800-x-1600-ceppo-di-beige",
+      "name": "Ceppo Di Beige",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/ceppo-di-beige-room.webp",
+      "image": "/tile-catalog/800-x-1600/ceppo-di-beige.webp"
+    },
+    {
+      "id": "800-x-1600-opera-onyx-rosso",
+      "name": "Opera Onyx Rosso",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/opera-onyx-rosso-room.webp",
+      "image": "/tile-catalog/800-x-1600/opera-onyx-rosso.webp"
+    },
+    {
+      "id": "800-x-1600-white-onyx",
+      "name": "White Onyx",
+      "size": "800 × 1600 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/white-onyx-room.webp",
+      "image": "/tile-catalog/800-x-1600/white-onyx.webp"
+    },
+    {
+      "id": "800-x-1600-murray-beige",
+      "name": "Murray Beige",
+      "size": "800 × 1600 mm",
+      "brand": "RAK Ceramics",
+      "finish": "Cashmere / Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/800-x-1600/murray-beige-room.webp",
+      "image": "/tile-catalog/800-x-1600/murray-beige.webp"
+    },
+    {
+      "id": "1200-x-1800-ceppo-di-beige",
+      "name": "Ceppo Di Beige",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/ceppo-di-beige-room.webp",
+      "image": "/tile-catalog/1200-x-1800/ceppo-di-beige.webp"
+    },
+    {
+      "id": "1200-x-1800-anima-silver",
+      "name": "Anima Silver",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles"
+    },
+    {
+      "id": "1200-x-1800-corsica-beige",
+      "name": "Corsica Beige",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/corsica-beige-room.webp",
+      "image": "/tile-catalog/1200-x-1800/corsica-beige.webp"
+    },
+    {
+      "id": "1200-x-1800-ombra-beige",
+      "name": "Ombra Beige",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Ultra Soft",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/ombra-beige-room.webp",
+      "image": "/tile-catalog/1200-x-1800/ombra-beige.webp"
+    },
+    {
+      "id": "1200-x-1800-ombra-emerald",
+      "name": "Ombra Emerald",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Ultra Soft",
+      "roomImage": "/tile-catalog/1200-x-1800/ombra-emerald-room.webp",
+      "image": "/tile-catalog/1200-x-1800/ombra-emerald.webp"
+    },
+    {
+      "id": "1200-x-1800-oracle-blanco",
+      "name": "Oracle Blanco",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Ultra Soft",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/oracle-blanco-room.webp",
+      "image": "/tile-catalog/1200-x-1800/oracle-blanco.webp"
+    },
+    {
+      "id": "1200-x-1800-passion-onyx-crema",
+      "name": "Passion Onyx Crema",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/passion-onyx-crema-room.webp",
+      "image": "/tile-catalog/1200-x-1800/passion-onyx-crema.webp"
+    },
+    {
+      "id": "1200-x-1800-passion-onyx-smoke",
+      "name": "Passion Onyx Smoke",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/passion-onyx-smoke-room.webp",
+      "image": "/tile-catalog/1200-x-1800/passion-onyx-smoke.webp"
+    },
+    {
+      "id": "1200-x-1800-silver-de-blanco",
+      "name": "Silver De Blanco",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/silver-de-blanco-room.webp",
+      "image": "/tile-catalog/1200-x-1800/silver-de-blanco.webp"
+    },
+    {
+      "id": "1200-x-1800-silver-de-grey",
+      "name": "Silver De Grey",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/silver-de-grey-room.webp",
+      "image": "/tile-catalog/1200-x-1800/silver-de-grey.webp"
+    },
+    {
+      "id": "1200-x-1800-statvario-smart",
+      "name": "Statvario Smart",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/statvario-smart-room.webp",
+      "image": "/tile-catalog/1200-x-1800/statvario-smart.webp"
+    },
+    {
+      "id": "1200-x-1800-volex-white",
+      "name": "Volex White",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/volex-white-room.webp",
+      "image": "/tile-catalog/1200-x-1800/volex-white.webp"
+    },
+    {
+      "id": "1200-x-1800-aurel-royal",
+      "name": "Aurel Royal",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Muse Matt",
+      "type": "Vitrified Tiles",
+      "image": "/tile-catalog/1200-x-1800/aurel-royal.webp"
+    },
+    {
+      "id": "1200-x-1800-belvia-crema",
+      "name": "Belvia Crema",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Muse Matt",
+      "type": "Vitrified Tiles",
+      "image": "/tile-catalog/1200-x-1800/belvia-crema.webp"
+    },
+    {
+      "id": "1200-x-1800-perlato-grey",
+      "name": "Perlato Grey",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Muse Matt",
+      "type": "Vitrified Tiles",
+      "image": "/tile-catalog/1200-x-1800/perlato-grey.webp"
+    },
+    {
+      "id": "1200-x-1800-nordic-avorio",
+      "name": "Nordic Avorio",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/nordic-avorio-room.webp",
+      "image": "/tile-catalog/1200-x-1800/nordic-avorio.webp"
+    },
+    {
+      "id": "1200-x-1800-nordic-grigio",
+      "name": "Nordic Grigio",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/nordic-grigio-room.webp",
+      "image": "/tile-catalog/1200-x-1800/nordic-grigio.webp"
+    },
+    {
+      "id": "1200-x-1800-mystic-grey",
+      "name": "Mystic Grey",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/mystic-grey-room.webp",
+      "image": "/tile-catalog/1200-x-1800/mystic-grey.webp"
+    },
+    {
+      "id": "1200-x-1800-mystic-sand",
+      "name": "Mystic Sand",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/mystic-sand-room.webp",
+      "image": "/tile-catalog/1200-x-1800/mystic-sand.webp"
+    },
+    {
+      "id": "1200-x-1800-double-dot-white",
+      "name": "Double Dot White",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Matt",
+      "type": "Full Body Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/double-dot-white-room.webp",
+      "image": "/tile-catalog/1200-x-1800/double-dot-white.webp"
+    },
+    {
+      "id": "1200-x-1800-double-dot-crema",
+      "name": "Double Dot Crema",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Matt",
+      "type": "Full Body Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/double-dot-crema-room.webp",
+      "image": "/tile-catalog/1200-x-1800/double-dot-crema.webp"
+    },
+    {
+      "id": "1200-x-1800-double-dot-mint",
+      "name": "Double Dot Mint",
+      "size": "1200 × 1800 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Glossy / Matt",
+      "type": "Full Body Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-1800/double-dot-mint-room.webp",
+      "image": "/tile-catalog/1200-x-1800/double-dot-mint.webp"
+    },
+    {
+      "id": "1200-x-2400-ceppo-di-beige",
+      "name": "Ceppo Di Beige",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/ceppo-di-beige-room.webp",
+      "image": "/tile-catalog/1200-x-2400/ceppo-di-beige.webp"
+    },
+    {
+      "id": "1200-x-2400-ceppo-di-grey",
+      "name": "Ceppo Di Grey",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/ceppo-di-grey-room.webp",
+      "image": "/tile-catalog/1200-x-2400/ceppo-di-grey.webp"
+    },
+    {
+      "id": "1200-x-2400-calcatta-vagli",
+      "name": "Calcatta Vagli",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss / Lux",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/calcatta-vagli-room.webp",
+      "image": "/tile-catalog/1200-x-2400/calcatta-vagli.webp"
+    },
+    {
+      "id": "1200-x-2400-white-onyx",
+      "name": "White Onyx",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/white-onyx-room.webp",
+      "image": "/tile-catalog/1200-x-2400/white-onyx.webp"
+    },
+    {
+      "id": "1200-x-2400-pulpis-extra-brown",
+      "name": "Pulpis Extra Brown",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/pulpis-extra-brown-room.webp",
+      "image": "/tile-catalog/1200-x-2400/pulpis-extra-brown.webp"
+    },
+    {
+      "id": "1200-x-2400-pulpis-extra-beige",
+      "name": "Pulpis Extra Beige",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/pulpis-extra-beige-room.webp",
+      "image": "/tile-catalog/1200-x-2400/pulpis-extra-beige.webp"
+    },
+    {
+      "id": "1200-x-2400-onice-reale-cobalt",
+      "name": "Onice Reale Cobalt",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss / Feather",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/onice-reale-cobalt-room.webp",
+      "image": "/tile-catalog/1200-x-2400/onice-reale-cobalt.webp"
+    },
+    {
+      "id": "1200-x-2400-onice-reale-ice",
+      "name": "Onice Reale Ice",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "High Gloss / Feather",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/onice-reale-ice-room.webp",
+      "image": "/tile-catalog/1200-x-2400/onice-reale-ice.webp"
+    },
+    {
+      "id": "1200-x-2400-nordic-avorio",
+      "name": "Nordic Avorio",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/nordic-avorio-room.webp",
+      "image": "/tile-catalog/1200-x-2400/nordic-avorio.webp"
+    },
+    {
+      "id": "1200-x-2400-coastline-grey",
+      "name": "Coastline Grey",
+      "size": "1200 × 2400 mm",
+      "brand": "Sunhearrt Ceramix",
+      "finish": "Matt Carving",
+      "type": "Vitrified Tiles",
+      "roomImage": "/tile-catalog/1200-x-2400/coastline-grey-room.webp",
+      "image": "/tile-catalog/1200-x-2400/coastline-grey.webp"
+    }
+  ],
+  "handmade": [
+    {
+      "name": "Motif Lantern & Plain Lantern",
+      "page": 2,
+      "image": "/tile-catalog/handmade-2.webp"
+    },
+    {
+      "name": "Feather Tile & Feather Arrow Tile",
+      "page": 3,
+      "image": "/tile-catalog/handmade-3.webp"
+    },
+    {
+      "name": "Drop & Lantern Ornament",
+      "page": 4,
+      "image": "/tile-catalog/handmade-4.webp"
+    },
+    {
+      "name": "Flask & Ring Droplet",
+      "page": 5,
+      "image": "/tile-catalog/handmade-5.webp"
+    },
+    {
+      "name": "Triangle & Embossed Moroccan Lantern",
+      "page": 6,
+      "image": "/tile-catalog/handmade-6.webp"
+    },
+    {
+      "name": "Square Diamond & Diamond",
+      "page": 7,
+      "image": "/tile-catalog/handmade-7.webp"
+    },
+    {
+      "name": "Fish Scale & KitKat Series",
+      "page": 8,
+      "image": "/tile-catalog/handmade-8.webp"
+    },
+    {
+      "name": "Star Cross & Long Hexagon Diamond",
+      "page": 9,
+      "image": "/tile-catalog/handmade-9.webp"
+    },
+    {
+      "name": "Long Hexagon & Chevron",
+      "page": 10,
+      "image": "/tile-catalog/handmade-10.webp"
+    },
+    {
+      "name": "Trapezoid & Classic Squares",
+      "page": 11,
+      "image": "/tile-catalog/handmade-11.webp"
+    },
+    {
+      "name": "Wow Tile & Bamboo",
+      "page": 12,
+      "image": "/tile-catalog/handmade-12.webp"
+    },
+    {
+      "name": "C Jaali",
+      "page": 13,
+      "image": "/tile-catalog/handmade-13.webp"
+    },
+    {
+      "name": "Plus, Tradi, Diamond & Cross Jaali",
+      "page": 14,
+      "image": "/tile-catalog/handmade-14.webp"
+    },
+    {
+      "name": "Khaprail Roof Tiles",
+      "page": 15,
+      "image": "/tile-catalog/handmade-15.webp"
+    },
+    {
+      "name": "Motif Designer Tiles · 2″ & 3″",
+      "page": 16,
+      "image": "/tile-catalog/handmade-16.webp"
+    },
+    {
+      "name": "Motif Designer Tiles · 4″",
+      "page": 17,
+      "image": "/tile-catalog/handmade-17.webp"
+    }
+  ],
+  "athangudi": [
+    {
+      "name": "Four Corner Petal",
+      "page": 4,
+      "image": "/tile-catalog/athangudi-four-corner-petal.webp"
+    },
+    {
+      "name": "Daffodil",
+      "page": 4,
+      "image": "/tile-catalog/athangudi-daffodil.webp"
+    },
+    {
+      "name": "Blooming Bud",
+      "page": 4,
+      "image": "/tile-catalog/athangudi-blooming-bud.webp"
+    },
+    {
+      "name": "Sukkaton",
+      "page": 5,
+      "image": "/tile-catalog/athangudi-sukkaton.webp"
+    },
+    {
+      "name": "Forest Flora",
+      "page": 5,
+      "image": "/tile-catalog/athangudi-forest-flora.webp"
+    },
+    {
+      "name": "Surya Chakra",
+      "page": 5,
+      "image": "/tile-catalog/athangudi-surya-chakra.webp"
+    },
+    {
+      "name": "Venus",
+      "page": 6,
+      "image": "/tile-catalog/athangudi-venus.webp"
+    },
+    {
+      "name": "French Classic",
+      "page": 6,
+      "image": "/tile-catalog/athangudi-french-classic.webp"
+    },
+    {
+      "name": "Rangshala",
+      "page": 6,
+      "image": "/tile-catalog/athangudi-rangshala.webp"
+    },
+    {
+      "name": "Ratna Pushp",
+      "page": 7,
+      "image": "/tile-catalog/athangudi-ratna-pushp.webp"
+    },
+    {
+      "name": "Two Corner Petal",
+      "page": 7,
+      "image": "/tile-catalog/athangudi-two-corner-petal.webp"
+    },
+    {
+      "name": "Karaikudi Classic",
+      "page": 7,
+      "image": "/tile-catalog/athangudi-karaikudi-classic.webp"
+    },
+    {
+      "name": "More patterns and borders",
+      "page": 8,
+      "image": "/tile-catalog/athangudi-more-patterns.webp"
+    }
+  ]
+}

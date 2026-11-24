@@ -49,13 +49,6 @@ function ClientBriefContent({ page }) {
       cards = [["Marble", "Product-level details, available varieties, finishes, sizes and specifications will be added from the Studio 88 catalogue."], ["Stone", "Specific stone types, finishes, formats and use cases will be added once the product range is provided."]];
       catalogueNote = true;
       break;
-    case "/tiles":
-      eyebrow = "Explore tiles";
-      title = "Options for different spaces.";
-      description = categories[1].description;
-      cards = [["Product information", "Available types, finishes, dimensions, brands and applications will be described using the product information supplied by Studio 88."], ["Your design preferences", "Bring together the colours, references and project requirements you would like to discuss when exploring tile options."]];
-      catalogueNote = true;
-      break;
     case "/mandir":
       eyebrow = "Mandir / Home Temple";
       title = "Explore a dedicated category for your home.";

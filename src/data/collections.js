@@ -1,11 +1,12 @@
+import { tileHero } from "./tiles";
+
 const collections = [
   {
     id: "tiles",
     title: "Tiles",
-    description: "Porcelain slabs, terrazzo and handmade clay \u2014 surfaces made for everyday living.",
+    description: "Living Floor, Handmade and Athangudi Tiles.",
     href: "/tiles",
-    image: "/2f6c336c-37df-4729-b39f-749a91ea1d93.jpg",
-    alt: "Warm porcelain tiles and terrazzo floor meeting a plaster wall"
+    ...tileHero
   },
   {
     id: "mandir",

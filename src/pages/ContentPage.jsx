@@ -10,6 +10,7 @@ import { Projects } from "../components/sections/Projects";
 import { Philosophy } from "../components/sections/Philosophy";
 import { ClientBriefContent } from "../components/sections/ClientBriefContent";
 import { media } from "../data/media";
+import { tileHero } from "../data/tiles";
 
 const pages = {
   "/about": {
@@ -37,8 +38,8 @@ const pages = {
     faqs: [["Will the delivered stone match a small sample?", "Natural variation is part of stone. Review the actual available slabs and agree on the selection before ordering."], ["How should I care for natural stone?", "Use a cleaner recommended for your stone, wipe spills promptly and discuss sealing with your installer. Avoid acidic or abrasive products unless approved for the surface."]]
   },
   "/tiles": {
-    title: "Surfaces for everyday living.", eyebrow: "Tiles & porcelain", image: "/2f6c336c-37df-4729-b39f-749a91ea1d93.jpg",
-    intro: "Create continuity from room to room with thoughtful formats, subtle textures and a palette that works with the rest of your home.",
+    title: "Surfaces for everyday living.", eyebrow: "Tiles", image: tileHero.image,
+    intro: "Compare large-format Living Floor Tiles, explore artisan-made shapes and jaalis, and discover traditional Athangudi patterns.",
     sections: [TileGrid], heading: "A few details make all the difference.",
     cards: [["Format & proportion", "Large formats create fewer visual breaks, while smaller tiles introduce rhythm. Compare sizes against your room dimensions and the proposed laying pattern."], ["Finish & application", "Compare matt, textured and polished surfaces in the room's lighting. For wet or outdoor areas, request the product's slip resistance and suitability information."], ["Grout & installation", "Grout colour changes the final appearance. Agree on joint width, substrate preparation and movement joints with your installer before work begins."]],
     faqs: [["Can the same tile be used on walls and floors?", "Only where the product is rated for the intended application. Confirm the technical specifications for each selected tile."], ["Should I order extra tiles?", "Allow for cuts, layout and future repairs. Ask your installer to calculate the allowance from the final drawings and confirm the batch before ordering."]]
@@ -106,7 +107,7 @@ function ContentPage() {
   return <>
     <section className="relative isolate overflow-hidden bg-charcoal px-6 pb-20 pt-44 text-ivory md:px-10 md:pb-28 md:pt-52"><img src={page.image} alt="" className="absolute inset-0 -z-20 h-full w-full object-cover" /><div className="absolute inset-0 -z-10 bg-black/65" /><div className="mx-auto max-w-[1360px]"><a href="/" className="text-xs uppercase tracking-widest text-ivory/70">Home</a><span className="mx-3 text-ivory/50">/</span><span className="text-xs uppercase tracking-widest">{page.eyebrow}</span><p className="mt-14 text-xs uppercase tracking-[0.22em] text-brass-light">STUDIO88 by MPI · {page.eyebrow}</p><h1 className="mt-6 max-w-4xl font-display text-[clamp(3rem,7vw,6.5rem)] font-light leading-none">{page.title}</h1><p className="mt-8 max-w-2xl text-base leading-relaxed text-ivory/80">{page.intro}</p></div></section>
     {page.sections.map((Section, index) => <Section key={index} />)}
-    <ClientBriefContent page={path} />
+    {path !== "/tiles" && <ClientBriefContent page={path} />}
     <section className="mx-auto max-w-[1440px] px-6 py-24 md:px-10 md:py-32"><p className="text-xs uppercase tracking-widest text-stone-muted">A considered approach</p><h2 className="mt-5 max-w-3xl font-display text-5xl font-light md:text-6xl">{page.heading}</h2><div className="mt-14 grid gap-10 md:grid-cols-3">{page.cards.map(([title, text, href], i) => <article key={title} className="border-t border-charcoal/20 pt-6"><p className="text-xs tracking-widest text-stone-muted">0{i + 1}</p><h3 className="mt-6 font-display text-3xl">{title}</h3><p className="mt-4 text-sm leading-7 text-stone-muted">{text}</p>{href && <a href={href} className="mt-6 inline-block border-b border-brass pb-2 text-xs uppercase tracking-widest">Explore {title} →</a>}</article>)}</div></section>
     {path === "/contact" && <ProjectBrief />}
     <section className="border-t border-charcoal/10 px-6 py-20 md:px-10"><div className="mx-auto max-w-4xl"><h2 className="font-display text-4xl">Useful to know.</h2><div className="mt-8">{page.faqs.map(([question, answer]) => <details key={question} className="border-b border-charcoal/15 py-5"><summary className="cursor-pointer text-base">{question}</summary><p className="mt-4 max-w-2xl text-sm leading-7 text-stone-muted">{answer}</p></details>)}</div></div></section>
